@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🛡️ AuraSafe 
-[Live Demo](https://sprightly-mooncake-63b89f.netlify.app/)
+# [Live Demo](https://sprightly-mooncake-63b89f.netlify.app/)
 ### Personal Safety, Rapid SOS & Emergency Companion Progressive Web App (PWA)
 
 [![PWA Ready](https://img.shields.io/badge/PWA-Installable-10B981?style=for-the-badge&logo=pwa&logoColor=white)](#quick-start)
