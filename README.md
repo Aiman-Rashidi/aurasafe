@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ AuraSafe
+# 🛡️ AuraSafe [Live Demo](https://sprightly-mooncake-63b89f.netlify.app/)
 ### Personal Safety, Rapid SOS & Emergency Companion Progressive Web App (PWA)
 
 [![PWA Ready](https://img.shields.io/badge/PWA-Installable-10B981?style=for-the-badge&logo=pwa&logoColor=white)](#quick-start)
@@ -9,7 +9,6 @@
 [![Offline First](https://img.shields.io/badge/Offline-Service_Worker_%2B_Radar-F59E0B?style=for-the-badge)](#offline-resilience)
 
 **AuraSafe** is a mobile-first, offline-resilient personal safety Progressive Web App engineered for high-stress, low-connectivity situations. It combines tactile SOS triggers, real ambient audio evidence capture, live OpenStreetMap safe-haven routing, a "Walk With Me" dead-man's switch timer, and a functional Stealth Calculator disguise into a single deployable web application.
-[Live Demo](https://sprightly-mooncake-63b89f.netlify.app/)
 
 </div>
 
