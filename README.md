@@ -9,6 +9,7 @@
 [![Offline First](https://img.shields.io/badge/Offline-Service_Worker_%2B_Radar-F59E0B?style=for-the-badge)](#offline-resilience)
 
 **AuraSafe** is a mobile-first, offline-resilient personal safety Progressive Web App engineered for high-stress, low-connectivity situations. It combines tactile SOS triggers, real ambient audio evidence capture, live OpenStreetMap safe-haven routing, a "Walk With Me" dead-man's switch timer, and a functional Stealth Calculator disguise into a single deployable web application.
+[Live Demo](https://sprightly-mooncake-63b89f.netlify.app/)
 
 </div>
 
